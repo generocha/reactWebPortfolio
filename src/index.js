@@ -1,6 +1,8 @@
 import React from "react";
 import reactDom from "react-dom";
 
-const template = <h1>Hello World</h1>;
+const App = () => {
+  return <h1>Hello!!</h1>;
+};
 
-reactDom.render(template, document.getElementById("root"));
+reactDom.render(<App />, document.getElementById("root"));
