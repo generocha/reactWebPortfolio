@@ -5,6 +5,7 @@ import { Header } from "./components/Header";
 import { Home } from "./components/Home";
 import { Skill } from "./components/Skill";
 import { About } from "./components/About";
+import { Work } from "./components/Work";
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
       <Home />
       <Skill />
       <About />
+      <Work />
     </div>
   );
 };
