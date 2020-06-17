@@ -4,6 +4,7 @@ import "../styles/style.scss";
 import { Header } from "./components/Header";
 import { Home } from "./components/Home";
 import { Skill } from "./components/Skill";
+import { About } from "./components/About";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       </header>
       <Home />
       <Skill />
+      <About />
     </div>
   );
 };
