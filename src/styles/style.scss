@@ -256,9 +256,9 @@ header {
   }
 }
 
-/* My Services */
+/* My Skills */
 
-.my-services {
+.my-skills {
   background-color: #4d9698;
   background-image: url(/images/15_republic_grocha_005.jpg);
   background-size: cover;
@@ -266,18 +266,18 @@ header {
   color: $clr-light;
   text-align: center;
 }
-.my-services p {
+.my-skills p {
   color: $clr-light;
 }
-#services .btn {
+#skills .btn {
   text-align: center;
 }
-.section__title--services {
+.section__title--skills {
   color: $clr-accent;
   position: relative;
   text-align: center;
 }
-.section__title--services::after {
+.section__title--skills::after {
   content: "";
   display: block;
   height: 1px;
@@ -285,22 +285,22 @@ header {
   background: $clr-light;
   opacity: 0.25;
 }
-.services {
+.skills {
   margin-bottom: 4em;
   text-align: left;
 }
-.service {
+.skill {
   max-width: 500px;
   margin: 0 auto;
 }
 @media (min-width: 800px) {
-  .services {
+  .skills {
     display: flex;
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
   }
-  .service + .service {
+  .skill + .skill {
     margin-left: 2em;
   }
 }

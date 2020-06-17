@@ -3,6 +3,7 @@ import reactDom from "react-dom";
 import "../styles/style.scss";
 import { Header } from "./components/Header";
 import { Home } from "./components/Home";
+import { Skill } from "./components/Skill";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
         <Header />
       </header>
       <Home />
+      <Skill />
     </div>
   );
 };
