@@ -7,7 +7,6 @@ import { Skill } from "./components/Skill";
 import { About } from "./components/About";
 import { Work } from "./components/Work";
 import { Footer } from "./components/Footer";
-import { Toggle } from "./components/Toggle";
 
 const App = () => {
   return (
