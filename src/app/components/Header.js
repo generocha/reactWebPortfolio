@@ -12,7 +12,7 @@ export class Header extends React.Component {
           </li>
           <li class="nav__item">
             <a href="#services" class="nav__link">
-              My Services
+              My Skills
             </a>
           </li>
           <li class="nav__item">
