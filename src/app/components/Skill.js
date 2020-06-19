@@ -10,44 +10,36 @@ export class Skill extends React.Component {
         </h2>
         <div class="skills">
           <div class="skill">
-            <h3>Design + Development</h3>
+            <h3>Design & Development</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-              fringilla ultricies est, ut euismod turpis tristique non. Integer
-              ut justo a erat tempor dignissim sit amet ac enim. Duis elementum
-              nisi vel maximus suscipit. Aliquam ultricies urna quis dolor
-              dignissim, vehicula posuere erat vestibulum. Aliquam eu mi id
-              justo pharetra elementum tristique vel lorem. Nunc rhoncus, elit
-              vel bibendum pulvinar, magna lacus accumsan nisl, sit amet dapibus
-              velit nisl ut tellus. Vivamus imperdiet luctus velit.
+              Design: to create, fashion, execute, or construct according to
+              plan. A well-designed project blends the communication needs of
+              the client with the aesthetics. I enjoy working with designers to
+              build their mock ups into live websites. Successful design takes
+              complex information and presents it in a clear manner, or can take
+              simple information and elevate its elegance.{" "}
             </p>
           </div>
           {/* end skill */}
           <div class="skill">
-            <h3>E-Commerce</h3>
+            <h3>Databases</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-              fringilla ultricies est, ut euismod turpis tristique non. Integer
-              ut justo a erat tempor dignissim sit amet ac enim. Duis elementum
-              nisi vel maximus suscipit. Aliquam ultricies urna quis dolor
-              dignissim, vehicula posuere erat vestibulum. Aliquam eu mi id
-              justo pharetra elementum tristique vel lorem. Nunc rhoncus, elit
-              vel bibendum pulvinar, magna lacus accumsan nisl, sit amet dapibus
-              velit nisl ut tellus. Vivamus imperdiet luctus velit.
+              Database: : a usually large collection of data organized
+              especially for rapid search and retrieval (as by a computer) I
+              enjoy working with data, with information, charts and graphs to
+              create organization and hierarchy of information in a way that is
+              easy for the viewer to understand.{" "}
             </p>
           </div>
           {/* end skill */}
           <div class="skill">
             <h3>CMS</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-              fringilla ultricies est, ut euismod turpis tristique non. Integer
-              ut justo a erat tempor dignissim sit amet ac enim. Duis elementum
-              nisi vel maximus suscipit. Aliquam ultricies urna quis dolor
-              dignissim, vehicula posuere erat vestibulum. Aliquam eu mi id
-              justo pharetra elementum tristique vel lorem. Nunc rhoncus, elit
-              vel bibendum pulvinar, magna lacus accumsan nisl, sit amet dapibus
-              velit nisl ut tellus. Vivamus imperdiet luctus velit.
+              I enjoy working with a Content Managment System to manage web
+              content, and it can make developing and maintaining a website much
+              easier. C onsistency in visual language is a cornerstone of any
+              successful project-based design. Working with Wordpress and
+              Expression Engine{" "}
             </p>
           </div>
           {/* end skill */}
