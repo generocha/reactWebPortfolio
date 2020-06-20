@@ -350,13 +350,13 @@ header {
 .portfolio {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  /* maxset max width*/
-  /*max-width: 500px;
-  margin: 0 auto;*/
+  max-width: 500px;
+  margin: 0 auto;
 }
 .portoflio__item {
-  background: $clr-accent;
+  background: $clr-med;
   overflow: hidden;
+  padding: 1em;
 }
 .portfolio__img {
   transition: transform 750ms cubic-bezier(0.5, 0, 0.5, 1),
