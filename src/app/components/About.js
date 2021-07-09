@@ -32,7 +32,7 @@ export class About extends React.Component {
             just relaxing and watching the game.
           </p>
         </div>
-        <img src="" class="about-me__img" />
+        <img src="images/generocha_white_shirt.jpeg" class="about-me__img" />
       </section>
     );
   }
